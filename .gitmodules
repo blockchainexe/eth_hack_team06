@@ -1,0 +1,6 @@
+[submodule "dockyard-client"]
+	path = dockyard-client
+	url = git@github.com:hnaohiro/dockyard-client.git
+[submodule "dockyard-token"]
+	path = dockyard-token
+	url = git@github.com:lotz84/dockyard-token.git
