@@ -4,3 +4,6 @@
 [submodule "dockyard-token"]
 	path = dockyard-token
 	url = git@github.com:lotz84/dockyard-token.git
+[submodule "dockyard-attestation"]
+	path = dockyard-attestation
+	url = https://github.com/lotz84/dockyard-attestation
