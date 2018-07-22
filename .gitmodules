@@ -7,3 +7,6 @@
 [submodule "dockyard-attestation"]
 	path = dockyard-attestation
 	url = https://github.com/lotz84/dockyard-attestation
+[submodule "deploy-contract-from-browser"]
+	path = deploy-contract-from-browser
+	url = git@github.com:lotz84/deploy-contract-from-browser.git
